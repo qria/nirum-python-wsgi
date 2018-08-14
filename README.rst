@@ -1,8 +1,8 @@
 Nirum services as WSGI apps
 ===========================
 
-.. image:: https://travis-ci.org/spoqa/nirum-python-wsgi.svg?branch=master
-   :target: https://travis-ci.org/spoqa/nirum-python-wsgi
+.. image:: https://api.travis-ci.com/nirum-lang/nirum-python-wsgi.svg?branch=master
+   :target: https://travis-ci.com/nirum-lang/nirum-python-wsgi
    :alt: Build status
 
 .. image:: https://badge.fury.io/py/nirum-wsgi.svg

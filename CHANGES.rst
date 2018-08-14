@@ -42,7 +42,7 @@ Released on May 25, 2018.
 - ``WsgiApp.error()`` and ``WsgiApp.make_error_response()`` methods became able
   to take extra keyword arguments to extend the result JSON object.
 
-__ https://github.com/spoqa/nirum/releases/tag/0.4.0
+__ https://github.com/nirum-lang/nirum/releases/tag/0.4.0
 
 
 Version 0.2.2
@@ -54,7 +54,7 @@ Released on March 20, 2018.
   corresponding to a variable for a query string in ``@http-resource``
   annotation's path has an optional type.  [`#251`_ by Chang-soo Han]
 
-.. _#251: https://github.com/spoqa/nirum/issues/251
+.. _#251: https://github.com/nirum-lang/nirum/issues/251
 
 
 Version 0.2.1
@@ -66,7 +66,7 @@ Released on March 20, 2018.
   when a variable name for a query string has one or more hyphens
   in ``@http-resource`` annotation's ``path``.  [`#250`_ by Chang-soo Han]
 
-.. _#250: https://github.com/spoqa/nirum/issues/250
+.. _#250: https://github.com/nirum-lang/nirum/issues/250
 
 
 Version 0.2.0
@@ -99,8 +99,8 @@ Released on February 4, 2018.
 - Fixed ``nirum-server`` command able to import a Python module/package from
   the current working directory (``.``; CWD).
 
-.. _#205: https://github.com/spoqa/nirum/issues/205
-.. _#130: https://github.com/spoqa/nirum/issues/130
+.. _#205: https://github.com/nirum-lang/nirum/issues/205
+.. _#130: https://github.com/nirum-lang/nirum/issues/130
 .. _CORS: https://www.w3.org/TR/cors/
 
 
